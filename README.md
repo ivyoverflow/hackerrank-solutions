@@ -33,5 +33,6 @@
 |[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem?h_r=profile)|[Click ❤️](TopEarners)|Easy 🙂|
 |[Asian Population](https://www.hackerrank.com/challenges/asian-population/problem?h_r=profile)|[Click ❤️](AsianPopulation)|Easy 🙂|
 |[African Cities](https://www.hackerrank.com/challenges/african-cities/problem?h_r=profile)|[Click ❤️](AfricanCities)|Easy 🙂|
+|[Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?h_r=profile)|[Click ❤️](AveragePopulationofEachContinent)|Easy 🙂|
 
 
