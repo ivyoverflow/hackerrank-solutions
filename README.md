@@ -31,5 +31,6 @@
 |[Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem?h_r=profile)|[Click ❤️](WeatherObservationStation14)|Easy 🙂|
 |[Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem?h_r=profile)|[Click ❤️](WeatherObservationStation16)|Easy 🙂|
 |[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem?h_r=profile)|[Click ❤️](TopEarners)|Easy 🙂|
+|[Asian Population](https://www.hackerrank.com/challenges/asian-population/problem?h_r=profile)|[Click ❤️](AsianPopulation)|Easy 🙂|
 
 
